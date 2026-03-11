@@ -1,9 +1,7 @@
 # Prueba pagina 1
 
-```
-xscdvxcvx
+- xscdvxcvx
 
 xcvxc
-```
 
 &nbsp;
